@@ -1,5 +1,5 @@
 Default
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="/">
 
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Ana Lindiner and my nickname is Lind :D
